@@ -1,0 +1,11 @@
+SLURM_SUBMIT_DIR=/home/dongbinna/Robust-Captcha-Research
+CUDA_HOME=/opt/ohpc/pub/apps/cuda-10.0
+CUDA_VISIBLE_DEVICES=
+CUDA_VERSION=10.0
+0: n1
+0: /home/dongbinna/Robust-Captcha-Research
+0: Sat Nov 30 17:07:38 KST 2019
+Sat Nov 30 17:36:48 KST 2019
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+              1276    cpu-i7 captcha_ dongbinn  R      29:10      1 n1
+##### END #####
